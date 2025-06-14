@@ -46,12 +46,6 @@ assert jb instanceof String
 
 assert jb == 'zion resident'
 
-//validate waktu
 
-//assert time != null
-//
-//assert time instanceof String
-//
-//assert time == '2025-06-14T02:35:31.926Z'
 
 
